@@ -1,1 +1,3 @@
 Habit 1: I agree that physical and mental health are important.
+Habit 2: Frequent updates can help us with the development, especially if we use some kind of "Feedback loop". We will
+         have frequent updates and we can find bugs/errors faster.
