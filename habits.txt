@@ -8,3 +8,5 @@ Habit 5: We always have to learn new things.
 Habit 6: I dont have a problem with working on a task alone, but I much rather collaborate with someone and/or
          work in pairs. Everyone thinks differently and can have a different solution or point of view on a problem.
          Also working on a task is more interesting that way.
+Habit 7: This one is kinda related to the 6th habit. So as I have said before, I dont mind working on a task alone, I
+         am aware that I would have to work on a stuff alone sometimes or do some self-learning in my free time.
