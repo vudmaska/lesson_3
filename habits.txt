@@ -5,3 +5,6 @@ Habit 3: I cannot agree more, keeping things simple will make it easier for ever
 Habit 4: I agree, there is not much to say about it. We need some time when we can concentrate and think about the issue
          we are working on without any interruptions.
 Habit 5: We always have to learn new things.
+Habit 6: I dont have a problem with working on a task alone, but I much rather collaborate with someone and/or
+         work in pairs. Everyone thinks differently and can have a different solution or point of view on a problem.
+         Also working on a task is more interesting that way.
